@@ -161,12 +161,26 @@ a{
 
 @media(max-width: 516px){
     .crd-btn{
-        font-size: 14px !important;
+        font-size: 14px;
     }
     #footer{
         margin-top: 40px !important;
     }
     #circle2{
         display: none;
+    }
+}
+
+@media(max-width: 480px){
+    .crd-btn{
+        font-size: 10px !important;
+    }
+    .subscription p{
+        font-size: 12px !important;
+        width: 300px !important;
+    }
+    .subscription .input-group{
+        font-size: 18px;
+        width: 300px !important;
     }
 }
