@@ -13,9 +13,8 @@ Bootstrap website for an eCommerce company. This website has a fresh sporty desi
 
 ## Soon
 
--- Loading Screen
--- Exercise page
--- Products page 
+- Exercise page
+- Products page 
 
 ## Usage
 
