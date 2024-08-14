@@ -160,6 +160,9 @@ a{
 }
 
 @media(max-width: 516px){
+    .headline-container{
+        width: 360px;   
+    } 
     .crd-btn{
         font-size: 14px;
     }
